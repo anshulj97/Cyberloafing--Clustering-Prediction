@@ -1,2 +1,2 @@
 # Cyberloafing--Clustering-Prediction
-Deloitte organised an event called TechnoUtsav in which from all over the India participated. I made into the last round of that -- And this is ongoing competition
+Deloitte organizes an event "TechnoUtsav" in which the participation is from all over India. I made into the last round of that -- and this competition is still ongoing. 
